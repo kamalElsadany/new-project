@@ -1,4 +1,4 @@
 # new-project
-for kamal fadel to language .
+for kamal fadel to favourite language .
 
 #project notes and docments.
